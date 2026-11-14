@@ -1,6 +1,6 @@
 # RoboPilot-VR4IL
 
-[# RoboPilot-VR4IL-Thumbnail-Img](https://github.com/Mithilesh1103git/RoboPilot-VR4IL/blob/main/RoboPilot-VR4IL-thumbnail.png?raw=true)
+![RoboPilot-VR4IL-Thumbnail-Img](https://github.com/Mithilesh1103git/RoboPilot-VR4IL/blob/main/RoboPilot-VR4IL-thumbnail.png?raw=true)
 
 **Teach Robots Through Your Hands.**
 

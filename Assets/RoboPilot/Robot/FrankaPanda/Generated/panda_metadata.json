@@ -1,0 +1,24 @@
+{
+    "model": "Franka Panda",
+    "source": "C:\\Users\\mithi_w\\mydata\\Hackathons\\The Meta VR Start Developer Competition 2026\\unity_projects\\MyFirstURP\\Assets\\RoboPilot\\Robot\\FrankaPanda\\Source\\panda.xml",
+    "bodies": 12,
+    "joints": 9,
+    "geometries": 81,
+    "degrees_of_freedom": 9,
+    "position_coordinates": 9,
+    "visual_group": 2,
+    "exported_geometries": 58,
+    "vertices": 397454,
+    "home_qpos": [
+        0.0,
+        0.0,
+        0.0,
+        -1.57079,
+        0.0,
+        1.57079,
+        -0.7853,
+        0.04,
+        0.04
+    ],
+    "coordinate_conversion": "MuJoCo XYZ -> Unity XZY"
+}
